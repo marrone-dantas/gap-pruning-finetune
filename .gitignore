@@ -1,0 +1,6 @@
+# Ignorar arquivos Python compilados
+*.pyc
+*.pyo
+*.png
+*.jpg
+__pycache__/
